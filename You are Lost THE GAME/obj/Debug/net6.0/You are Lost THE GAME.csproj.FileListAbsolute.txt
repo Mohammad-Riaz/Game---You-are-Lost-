@@ -1,0 +1,30 @@
+C:\Users\rayan\Desktop\You are Lost THE GAME\bin\Debug\net6.0\You are Lost THE GAME.exe
+C:\Users\rayan\Desktop\You are Lost THE GAME\bin\Debug\net6.0\You are Lost THE GAME.deps.json
+C:\Users\rayan\Desktop\You are Lost THE GAME\bin\Debug\net6.0\You are Lost THE GAME.runtimeconfig.json
+C:\Users\rayan\Desktop\You are Lost THE GAME\bin\Debug\net6.0\You are Lost THE GAME.dll
+C:\Users\rayan\Desktop\You are Lost THE GAME\bin\Debug\net6.0\ref\You are Lost THE GAME.dll
+C:\Users\rayan\Desktop\You are Lost THE GAME\bin\Debug\net6.0\You are Lost THE GAME.pdb
+C:\Users\rayan\Desktop\You are Lost THE GAME\obj\Debug\net6.0\You are Lost THE GAME.csproj.AssemblyReference.cache
+C:\Users\rayan\Desktop\You are Lost THE GAME\obj\Debug\net6.0\You are Lost THE GAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayan\Desktop\You are Lost THE GAME\obj\Debug\net6.0\You are Lost THE GAME.AssemblyInfoInputs.cache
+C:\Users\rayan\Desktop\You are Lost THE GAME\obj\Debug\net6.0\You are Lost THE GAME.AssemblyInfo.cs
+C:\Users\rayan\Desktop\You are Lost THE GAME\obj\Debug\net6.0\You are Lost THE GAME.csproj.CoreCompileInputs.cache
+C:\Users\rayan\Desktop\You are Lost THE GAME\obj\Debug\net6.0\You are Lost THE GAME.dll
+C:\Users\rayan\Desktop\You are Lost THE GAME\obj\Debug\net6.0\ref\You are Lost THE GAME.dll
+C:\Users\rayan\Desktop\You are Lost THE GAME\obj\Debug\net6.0\You are Lost THE GAME.pdb
+C:\Users\rayan\Desktop\You are Lost THE GAME\obj\Debug\net6.0\You are Lost THE GAME.genruntimeconfig.cache
+C:\Users\rayan\Desktop\Code & Unity\C# Programs\You are Lost THE GAME\bin\Debug\net6.0\You are Lost THE GAME.exe
+C:\Users\rayan\Desktop\Code & Unity\C# Programs\You are Lost THE GAME\bin\Debug\net6.0\You are Lost THE GAME.deps.json
+C:\Users\rayan\Desktop\Code & Unity\C# Programs\You are Lost THE GAME\bin\Debug\net6.0\You are Lost THE GAME.runtimeconfig.json
+C:\Users\rayan\Desktop\Code & Unity\C# Programs\You are Lost THE GAME\bin\Debug\net6.0\You are Lost THE GAME.dll
+C:\Users\rayan\Desktop\Code & Unity\C# Programs\You are Lost THE GAME\bin\Debug\net6.0\ref\You are Lost THE GAME.dll
+C:\Users\rayan\Desktop\Code & Unity\C# Programs\You are Lost THE GAME\bin\Debug\net6.0\You are Lost THE GAME.pdb
+C:\Users\rayan\Desktop\Code & Unity\C# Programs\You are Lost THE GAME\obj\Debug\net6.0\You are Lost THE GAME.csproj.AssemblyReference.cache
+C:\Users\rayan\Desktop\Code & Unity\C# Programs\You are Lost THE GAME\obj\Debug\net6.0\You are Lost THE GAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayan\Desktop\Code & Unity\C# Programs\You are Lost THE GAME\obj\Debug\net6.0\You are Lost THE GAME.AssemblyInfoInputs.cache
+C:\Users\rayan\Desktop\Code & Unity\C# Programs\You are Lost THE GAME\obj\Debug\net6.0\You are Lost THE GAME.AssemblyInfo.cs
+C:\Users\rayan\Desktop\Code & Unity\C# Programs\You are Lost THE GAME\obj\Debug\net6.0\You are Lost THE GAME.csproj.CoreCompileInputs.cache
+C:\Users\rayan\Desktop\Code & Unity\C# Programs\You are Lost THE GAME\obj\Debug\net6.0\You are Lost THE GAME.dll
+C:\Users\rayan\Desktop\Code & Unity\C# Programs\You are Lost THE GAME\obj\Debug\net6.0\ref\You are Lost THE GAME.dll
+C:\Users\rayan\Desktop\Code & Unity\C# Programs\You are Lost THE GAME\obj\Debug\net6.0\You are Lost THE GAME.pdb
+C:\Users\rayan\Desktop\Code & Unity\C# Programs\You are Lost THE GAME\obj\Debug\net6.0\You are Lost THE GAME.genruntimeconfig.cache

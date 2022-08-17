@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "You are Lost THE GAME/1.0.0": {
+        "runtime": {
+          "You are Lost THE GAME.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "You are Lost THE GAME/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
